@@ -16,11 +16,21 @@ p {
     display: inline-block;
     padding-right: 50px;
     position: relative;
-    margin-top: 5em;
+    margin-top: 0.5em;
     margin-left: 3em;
 }
 
 #unico {
-    font-size: 3em;
+    color: #FFFFFF;
+    text-shadow: 3px 5px 2px #474747;
+    font-weight: bold;
+    font-size: 2em;
     font-family: Cambria, Cochin, Georgia, Times, 'Times New Roman', serif;
+    padding-top: 1em;
+    padding-left: 3.5em;
+    text-align: justify;
+    box-align: relative;
+    position: inherit;
+    background: rgb(104, 99, 199);
+    background: linear-gradient(90deg, rgba(104, 99, 199, 1) 0%, rgba(55, 62, 187, 0.9668242296918768) 45%, rgba(0, 212, 255, 1) 100%);
 }
