@@ -1,5 +1,21 @@
 body {
-    background-color: cyan;
-    text-align: center;
     font-family: consolas;
+}
+
+div {
+    text-align: center;
+}
+
+p {
+    font-size: 20px;
+}
+
+.pendejo {
+    border-style: dotted;
+    border-width: 3px;
+    display: inline-block;
+    padding-right: 50px;
+    position: relative;
+    margin-top: 5em;
+    margin-left: 3em;
 }
